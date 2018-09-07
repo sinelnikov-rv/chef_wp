@@ -1,0 +1,5 @@
+{
+  "id": "mysql",
+  "root_pass": "test",
+  "wp_db_pass": "wordpress"
+}

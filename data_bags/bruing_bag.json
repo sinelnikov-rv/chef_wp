@@ -1,0 +1,4 @@
+{
+ "id": "bruins-json",
+ "packages": ["apache2", "php", "php-mysql", "libapache2-mod-php"]
+}
